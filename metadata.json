@@ -1,0 +1,6 @@
+{
+  "name": "Love Guru",
+  "description": "Love Guru is your ultra-emotionally intelligent, witty, and highly practical relationship mentor. Navigate tricky trap questions, quiet her anger, and decode her texts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
